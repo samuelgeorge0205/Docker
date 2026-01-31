@@ -1,5 +1,4 @@
 
-```md
 # 🐳 Docker & Containerisation — The Story, The Why, The How
 
 > *Before Docker became a command, it was a survival mechanism for engineers.*
@@ -279,12 +278,3 @@ Linux Kernel
 ✅ You have a strong bridge to Kubernetes  
 
 ---
-
-### Next (your call 👇)
-1️⃣ Add **hands-on labs per chapter**  
-2️⃣ Convert this into **LinkedIn / blog series**  
-3️⃣ Add **interview storytelling answers**  
-4️⃣ Merge everything into **one final polished master file**
-
-You’re building this the *right way* 🔥
-```
